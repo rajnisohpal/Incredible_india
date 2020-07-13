@@ -1,6 +1,6 @@
 # Incredible_india
 
-#Description:
+This website is designe to explore the places in india,in this website user can find the information about famous places. 
 
 #Technology used:HTML,CSS
 
